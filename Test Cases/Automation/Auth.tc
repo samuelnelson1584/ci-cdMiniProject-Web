@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Auth</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1e20864-37ad-4c13-bfb2-96ded759bffa</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>63eda3d1-4273-41e5-9dbf-825d1bb5757d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'@logout'</defaultValue>
+      <description></description>
+      <id>63eda3d1-4273-41e5-9dbf-825d1bb5757d</id>
+      <masked>false</masked>
+      <name>a</name>
+   </variable>
+</TestCaseEntity>

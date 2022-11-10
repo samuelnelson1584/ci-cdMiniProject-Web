@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7c43d9f-f73c-4eed-a1ca-b2e5da28032b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cfe3a237-a03a-4612-ab14-b4dba18cc4be</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'@subtotal'</defaultValue>
+      <description></description>
+      <id>cfe3a237-a03a-4612-ab14-b4dba18cc4be</id>
+      <masked>false</masked>
+      <name>a</name>
+   </variable>
+</TestCaseEntity>
